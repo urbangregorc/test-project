@@ -1,0 +1,3 @@
+[submodule "lowapp"]
+	path = lowapp
+	url = https://github.com/urbangregorc/lowapp.git
